@@ -1,0 +1,9 @@
+Chihuahua Tamaulipas Zacatecas EstadodeMexico Oaxaca Chiapas Yucatan
+Chihuahua 0 0 Tamaulipas 0 0 Zacatecas 0 0 EstadodeMexico 130 500 Oaxaca 0 0 Chiapas 0 0 Yucatan 360 2400
+Chihuahua 0 0 Tamaulipas 0 0 Zacatecas 60 350 EstadodeMexico 0 0 Oaxaca 120 650 Chiapas 0 0 Yucatan 0 0
+Chihuahua 0 0 Tamaulipas 60 350 Zacatecas 0 0 EstadodeMexico 80 300 Oaxaca 0 0 Chiapas 300 2000 Yucatan 0 0
+Chihuahua 130 500 Tamaulipas 0 0 Zacatecas 80 300 EstadodeMexico 0 0 Oaxaca 0 0 Chiapas 0 0 Yucatan 0 0
+Chihuahua 0 0 Tamaulipas 120 650 Zacatecas 0 0 EstadodeMexico 0 0 Oaxaca 0 0 Chiapas 90 2000 Yucatan 0 0
+Chihuahua 0 0 Tamaulipas 0 0 Zacatecas 300 2000 EstadodeMexico 0 0 Oaxaca 90 2000 Chiapas 0 0 Yucatan 100 720
+Chihuahua 360 2400 Tamaulipas 0 0 Zacatecas 0 0 EstadodeMexico 0 0 Oaxaca 0 0 Chiapas 100 720 Yucatan 0 0
+EstadodeMexico Oaxaca Yucatan
