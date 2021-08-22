@@ -21,7 +21,7 @@ public class Proyecto1TSP {
         /*
         *Leemos los datos 
         */
-        String h = "/Users/luiscarranza/Documents/IA/Proyecto1TSP/src/proyecto1tsp/ABDC.txt"; //Leemos la mariz de incidencia del grafo
+        String h = "/Users/luiscarranza/Documents/IA/Proyecto1TSP/src/proyecto1tsp/archivosTXT/CDMX.txt"; //Leemos la mariz de incidencia del grafo
         Lector l = new Lector(h);
         l.leerNumCiudades();
         l.matriz();
